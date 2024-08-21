@@ -1,6 +1,6 @@
 <h3>Cash Gines</h3>
 <h3>Southwest Technical College</h3>
-# TESD 1800: Software-Development
+<h4>TESD 1800: Software-Development</h4>
 
 This repository is an intor to creating my own repository. Reference Exercise 3-2.
 
